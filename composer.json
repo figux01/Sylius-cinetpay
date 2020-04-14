@@ -1,12 +1,11 @@
 {
-    "name": "sylius/plugin-cinetpay",
+    "name": "sylius/plugin-cinetpay2",
     "type": "sylius-plugin",
-    "keywords": ["sylius", "sylius-plugin"],
+    "keywords": ["sylius", "sylius-plugin","sylius-plugin-test"],
     "description": "Acme example plugin for Sylius.",
     "license": "MIT",
     "require": {
         "php": "^7.3",
-
         "sylius/sylius": "^1.7"
     },
     "require-dev": {
