@@ -1,5 +1,5 @@
 {
-    "name": "Thibus/plugin-cinetpay2",
+    "name": "thibus/plugin-cinetpay2",
     "type": "sylius-plugin",
     "keywords": ["sylius", "sylius-plugin","sylius-plugin-test"],
     "description": "Acme example plugin for Sylius.",
